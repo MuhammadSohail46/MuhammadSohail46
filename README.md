@@ -29,7 +29,7 @@ I’m open to collaborating on:
 
 ### 📫 How to Reach Me
 - **LinkedIn**: [Muhammad Sohail Abbas](https://www.linkedin.com/in/muhammad-sohail-abbas/)
-- **Email**: [muhammadsohail46@example.com](mailto:muhammadsohail.dev@gmail.com)
+- **Email**: [muhammadsohail.dev@gmail.com](mailto:muhammadsohail.dev@gmail.com)
 
 ---
 
