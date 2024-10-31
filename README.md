@@ -33,11 +33,6 @@ I’m open to collaborating on:
 
 ---
 
-### 😄 Pronouns
-He/Him
-
----
-
 ### ⚡ Fun Fact
 I’m a tech enthusiast with a **knack for automation** and building things that make life easier—whether that’s through a streamlined ML pipeline or a perfectly tuned cloud deployment.
 
