@@ -1,46 +1,226 @@
+# Muhammad Sohail Abbas
 
-# 👋 Hi, I'm Muhammad Sohail Abbas
+### I build systems that make AI useful outside the notebook.
 
-I’m a **Machine Learning & MLOps Engineer** with 3+ years of experience designing **cloud-native ML pipelines**, **computer vision solutions**, and **LLM applications**. My expertise lies in **productionizing AI systems** that combine perception, reasoning, and decision-making — at scale — across industries like **agriculture, fintech, and enterprise AI**.  
+Machine Learning & MLOps Engineer working across **AI infrastructure, computer vision, geospatial systems, LLMs, and edge inference**.
 
-On this GitHub, you’ll find my work in **pipelines, automation, geospatial AI, and model deployment**.
+I’m interested in the engineering problems between:
 
----
-
-## 👀 Interests
-- ☁️ **MLOps & Cloud-Native AI**: Building reproducible, automated, and scalable ML workflows (AWS, GCP, on-prem).  
-- 🛰️ **Computer Vision & Remote Sensing**: Deploying YOLO, SAM, and geospatial ML at terabyte scale.  
-- 🤖 **LLMs & Agentic AI**: RAG pipelines, multimodal reasoning, and private AI assistants for enterprises.  
+**data → models → infrastructure → deployment → real-world decisions**
 
 ---
 
-## 🌱 Currently Working On
-- 🗺️ **Multi-Agent Geospatial Copilot**: Modular AI agents for crop monitoring, yield estimation, and geospatial insights.  
-- ⚡ **Serverless ML Pipelines**: End-to-end AWS workflows with SageMaker, Lambda, and Batch for scalable CV/NLP inference.  
-- 🔐 **Offline RAG AI Assistants**: Secure, intranet-only AI tools using LLMs, Whisper, and vector search.  
+### `01` — What I'm Building
+
+```text
+        DATA
+          │
+          ▼
+   ┌──────────────┐
+   │  ML SYSTEMS  │
+   └──────┬───────┘
+          │
+    ┌─────┼─────┐
+    ▼     ▼     ▼
+  CLOUD  EDGE   AI
+    │     │     │
+    └─────┼─────┘
+          ▼
+     REAL WORLD
+```
+
+My work generally falls into a few areas:
+
+**ML Infrastructure**
+Training pipelines, inference systems, orchestration, observability, automation, and cost-aware infrastructure.
+
+**Computer Vision**
+Detection, segmentation, geospatial imagery, UAV data, remote sensing, and large-scale image processing.
+
+**AI Systems**
+RAG, multimodal AI, agentic workflows, and systems that connect models to tools, data, and business processes.
+
+**Edge AI**
+Taking intelligence closer to where the data is generated — including offline and resource-constrained environments.
 
 ---
 
-## 🤝 Looking to Collaborate On
-- 🛠️ **End-to-End MLOps Pipelines**: From ingestion to monitoring with CI/CD and observability.  
-- 🌾 **AI Solutions in Agriculture, Healthcare, and Remote Sensing**.  
-- ☁️ **Cloud-based ML Infra**: AWS, Azure, or GCP with scalable, cost-optimized deployments.  
+### `02` — Things I Like Working On
+
+```yaml
+mlops:
+  - training pipelines
+  - model evaluation
+  - deployment
+  - monitoring
+  - automation
+
+computer_vision:
+  - object_detection
+  - segmentation
+  - remote_sensing
+  - geospatial_ai
+  - visual_quality_control
+
+ai:
+  - llms
+  - rag
+  - multimodal_systems
+  - agents
+  - model_optimization
+
+infrastructure:
+  - cloud
+  - containers
+  - kubernetes
+  - serverless
+  - distributed_compute
+
+edge:
+  - offline_inference
+  - model_compression
+  - edge_devices
+  - real_time_vision
+```
 
 ---
 
-## 📂 Featured Projects
-- 🌍 **Geospatial AI Pipelines** → Drone/satellite image alignment, tiling, NDVI/NDWI analytics.  
-- 🍃 **Crop Leaf Anomaly Detection** → SAM + YOLOv8 pipelines with georeferenced anomaly layers.  
-- 📊 **Marketplace Analytics** → Cohort analysis pipelines with Redshift, Glue, and QuickSight.  
-- 🔐 **Secure Intranet AI Assistant** → Private, offline RAG + Whisper-powered assistant for enterprises.  
+### `03` — Selected Work
+
+**Geospatial AI**
+
+Building pipelines that turn UAV and satellite imagery into structured information — from image processing and alignment to detection, segmentation, and spatial analytics.
+
+**ML / AI Platforms**
+
+Designing the infrastructure around ML systems: data ingestion, training, evaluation, inference, monitoring, and operational automation.
+
+**Private AI**
+
+Exploring secure RAG and multimodal assistants that can operate against private enterprise data without exposing that data unnecessarily.
+
+**Edge Intelligence**
+
+Experimenting with taking computer vision pipelines from cloud infrastructure to local hardware where latency, connectivity, and compute become first-class constraints.
+
+**Visual Quality Control**
+
+Working on computer vision systems that compare physical manufacturing output against digital specifications and detect deviations automatically.
 
 ---
 
-## 📫 How to Reach Me
-- 💼 **LinkedIn**: [Muhammad Sohail Abbas](https://www.linkedin.com/in/muhammad-sohail-abbas/)  
-- 📧 **Email**: [muhammadsohail.dev@gmail.com](mailto:muhammadsohail.dev@gmail.com)  
+### `04` — Research
+
+My research interests sit around **computer vision + remote sensing + deployment-aware ML**.
+
+Current areas include:
+
+* Fine-grained visual recognition
+* Instance segmentation
+* UAV-based remote sensing
+* Model evaluation and error analysis
+* Efficient vision models
+* Real-world deployment constraints
+
+I’m particularly interested in a simple question:
+
+> **How much of an ML system's performance comes from the model — and how much comes from everything around it?**
 
 ---
 
-## ⚡ Fun Fact
-I love turning **raw, messy data** into **actionable intelligence** — whether it’s thousands of drone images stitched into precise maps, or a private AI assistant that drafts letters securely offline.  
+### `05` — Stack
+
+**Languages**
+
+`Python` · `SQL` · `JavaScript` · `TypeScript`
+
+**ML / AI**
+
+`PyTorch` · `YOLO` · `SAM` · `DINO` · `Transformers` · `RAG`
+
+**Cloud & Infrastructure**
+
+`AWS` · `GCP` · `Docker` · `Kubernetes` · `Terraform`
+
+**ML Infrastructure**
+
+`SageMaker` · `Batch` · `Lambda` · `Step Functions` · `ML Pipelines` · `Model Monitoring`
+
+**Data & Geospatial**
+
+`PostgreSQL` · `Redshift` · `S3` · `GDAL` · `Raster / Vector Data`
+
+---
+
+### `06` — A Bit More Personally
+
+I like problems where the diagram looks simple:
+
+```text
+        INPUT
+          ↓
+        MODEL
+          ↓
+       OUTPUT
+```
+
+but reality looks more like:
+
+```text
+data quality
+     ↓
+data pipeline
+     ↓
+preprocessing
+     ↓
+compute
+     ↓
+model
+     ↓
+evaluation
+     ↓
+deployment
+     ↓
+monitoring
+     ↓
+failure
+     ↓
+automation
+     ↓
+repeat
+```
+
+That's the part I find interesting.
+
+---
+
+### `07` — Around Here
+
+This GitHub contains a mixture of:
+
+* production-oriented engineering
+* research
+* experiments
+* ML infrastructure
+* computer vision
+* geospatial systems
+* AI prototypes
+* things I built simply because I wanted to understand how they work
+
+Not everything here is polished.
+
+Some things are meant to be used.
+
+Some are meant to be studied.
+
+Some exist because I had a question and wanted to build the answer.
+
+---
+
+### `08` — Find Me
+
+**[LinkedIn](https://www.linkedin.com/in/muhammad-sohail-abbas/)** · **[Email](mailto:muhammadsohail.dev@gmail.com)**
+
+---
+
+<sub>Building at the boundary between models and systems.</sub>
